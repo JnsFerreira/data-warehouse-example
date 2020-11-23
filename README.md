@@ -9,4 +9,5 @@ Simple example of how to perform a data ingestion from a source, do the ETL and 
 
 ### TODO
 
-Command line examples to create the functions and schedules
+* Command line examples to create the functions and schedules
+* Add requirements
